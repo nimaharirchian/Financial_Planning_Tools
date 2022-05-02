@@ -22,5 +22,6 @@ ___
 <img width="629" alt="Screen Shot 2022-05-01 at 5 39 07 PM" src="https://user-images.githubusercontent.com/95598560/166171697-71797865-743a-4613-9bd9-71b31ce1399f.png">
 <img width="464" alt="Screen Shot 2022-05-01 at 5 39 13 PM" src="https://user-images.githubusercontent.com/95598560/166171699-1fc1368b-307e-4667-a8e6-c77dea1b27e3.png">
 ___
+
 ### Contributors
-##### **Nima Harirchian**
+##### Nima Harirchian
