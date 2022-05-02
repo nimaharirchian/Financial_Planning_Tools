@@ -4,7 +4,14 @@
 ---
 ## Technologies
 ---
-##### The libraries and dependencies required for this project were os, requests, json, pandas, dotenv, alpaca trade api, matplotlib% inline, and MCForecast tools to run monte carlos simulations.
+* os
+* requests
+* json
+* pandas
+* dotenv
+* alpaca trade api
+* matplotlib% inline
+* MCForecast Tools - run a monte carlo simulation to forecast the performance of a retirement portfolio
 
 
 ---
