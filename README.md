@@ -11,7 +11,7 @@
 * dotenv
 * alpaca trade api
 * matplotlib% inline
-* MCForecast Tools - run a monte carlo simulation to forecast the performance of a retirement portfolio
+* MCForecast Tools - monte carlo simulation to forecast the performance of retirement portfolios
 
 
 ---
